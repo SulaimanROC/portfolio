@@ -1,0 +1,53 @@
+@font-face {
+    font-family: rubikbubbles;
+    src: url(./RubikBubbles-Regular.ttf);
+    
+}
+
+.wrapper {
+ margin: auto;
+}
+
+header {
+    width: 800px;
+    height: 50px;
+    background-color: bisque;
+    margin: auto;
+    text-align: center;
+}
+
+main {
+    width: 800px;
+    height: 550px;
+    background-color:coral;
+    margin: auto;
+    text-align: center;
+    font-size: 35px;
+}
+
+article {
+    width: 300px;
+    height: 350px;
+    background: linear-gradient(90deg, lightsalmon, red);
+    margin: auto;
+    margin-left: 100px;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 50px;
+    line-height: 350px;
+    color: white;
+    font-family: Rubikbubbles;
+}
+
+.Projects {
+    width: 300px;
+    height: 350px;
+    background: linear-gradient(90deg, lightsalmon, red);
+    
+    text-align: center;
+    font-size: 50px;
+    line-height: 350px;
+    color: white;
+    font-family: Rubikbubbles;
+
+}
